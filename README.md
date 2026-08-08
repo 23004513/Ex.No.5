@@ -416,14 +416,4 @@ The experiment demonstrates that Prompt Chaining can help transform a complex en
 
 ---
 
-# Learning Outcome
 
-After completing this experiment, students can:
-
-1. Understand the concept and working principle of Prompt Chaining.
-2. Divide an engineering problem into sequential tasks.
-3. Design prompts whose outputs can support subsequent prompts.
-4. Use AI assistance for system analysis and software development.
-5. Convert requirements into algorithms and program logic.
-6. Test an AI-assisted engineering solution using different inputs.
-7. Analyze and document the final system.
