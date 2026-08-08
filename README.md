@@ -19,6 +19,8 @@ Increasing vehicle density in urban areas causes traffic congestion, particularl
 An **AI-Based Smart Traffic Signal Control System** can analyze the number of vehicles approaching different roads and adjust signal durations according to the current traffic condition.
 
 The main purpose of the proposed system is to provide more green time to roads experiencing heavier traffic while maintaining appropriate signal timing for roads with lower traffic.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2226aa3f-1578-4f74-b975-e220dad419e8" />
+
 
 ---
 
@@ -368,33 +370,10 @@ However, the current implementation is a simplified simulation. A real-world sys
 > Using the outputs generated in the previous stages, prepare concise engineering documentation for the AI-Based Smart Traffic Signal Control System. Include the problem, solution, requirements, architecture, algorithm, implementation, testing, advantages, limitations, and conclusion.
 
 ### Output
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/764becfb-a629-429e-a900-e42cd8cf4fd2" />
 
-## Introduction
 
-Traffic congestion is a common problem in urban areas. Conventional traffic signals generally use predefined timings and may not respond effectively to changes in traffic volume. An adaptive traffic management system can use real-time traffic information to improve signal control.
 
-## Problem Statement
-
-Fixed signal timings may provide the same green duration to roads even when their traffic levels are different. This can increase waiting time and congestion.
-
-## Proposed Solution
-
-The proposed system monitors vehicle counts on different roads and dynamically assigns signal durations according to traffic conditions. The road with higher traffic receives greater priority.
-
-## Advantages
-
-* Adaptive traffic control
-* Reduced unnecessary waiting
-* Better traffic distribution
-* Improved road utilization
-* Can be extended with computer vision and machine learning
-
-## Limitations
-
-* The current Python program uses manually entered vehicle counts.
-* It does not process live camera footage.
-* The signal timing rules are simplified.
-* A real deployment requires hardware and safety mechanisms.
 
 ## Conclusion
 
